@@ -1,4 +1,4 @@
-Copyright © 2024 KairoNero.
+Copyright © 2024 KaisoNero.
 
 - Usage: You can use this texture pack for your personal Minecraft experience.
 
