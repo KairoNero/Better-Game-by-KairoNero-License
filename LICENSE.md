@@ -4,10 +4,10 @@ Copyright © 2024 KaisoNero.
 
 - Redistribution: Feel free to share the texture pack as long as it remains unmodified and proper credit is given.
 
-- Modifications: You can modify the texture pack for your own use. If you share your modified version, please credit the original author (Entcraft).
+- Modifications: You can modify the texture pack for your own use. If you share your modified version, please credit the original creator, KaisoNero.
 
 - Commercial Use: Please do not use this texture pack for commercial purposes without my permission.
 
-- Credits: If you use this texture pack in videos, streams, or other content, it would be great if you could credit Entcraft.
+- Credits: If you use this texture pack in videos, streams, or other content, it would be great if you could credit KaisoNero.
 
 Thank you for using and enjoy playing!
